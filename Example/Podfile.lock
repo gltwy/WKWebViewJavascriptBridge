@@ -1,0 +1,16 @@
+PODS:
+  - WKWebViewJavascriptBridge (1.0.0)
+
+DEPENDENCIES:
+  - WKWebViewJavascriptBridge (from `../`)
+
+EXTERNAL SOURCES:
+  WKWebViewJavascriptBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WKWebViewJavascriptBridge: eedfade603876490691c447335b54e6bd4ba6bb3
+
+PODFILE CHECKSUM: 401d0dad4c726c5e56e411df9ce6ef3fe8bc3d0d
+
+COCOAPODS: 1.12.0
