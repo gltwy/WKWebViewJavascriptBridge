@@ -1,6 +1,6 @@
 # LTWKWebViewJavascriptBridge
 
-移除[WebViewJavascriptBridge](http://cocoapods.org](https://github.com/marcuswestin/WebViewJavascriptBridge) `6.0.3`版本UIWebView相关代码，避免苹果审核被拒！其他代码未做更改。
+移除[WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) `6.0.3`版本UIWebView相关代码，避免苹果审核被拒！其他代码未做更改。
 
 
 ## CocoaPods安装
