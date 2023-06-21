@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'WKWebViewJavascriptBridge'
+  s.name             = 'LTWKWebViewJavascriptBridge'
   s.version          = '1.0.0'
   s.summary          = 'WKWebViewJavascriptBridge summary'
   s.description      = <<-DESC
